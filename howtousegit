@@ -1,0 +1,13 @@
+This is a GIT Cheat Sheet for me.
+
+Useful Commands:
+1. git status
+1. git config --list
+
+How to Do a Push:
+
+1. git status
+2. git add <documentname>
+3. git commit -m "leave a commit comment here"
+4. git push 
+    4.1 - git push origin master/branch
