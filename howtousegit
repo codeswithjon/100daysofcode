@@ -1,8 +1,11 @@
 This is a GIT Cheat Sheet for me.
 
+Cloning a Repo
+1. git clone <URL>
+
 Useful Commands:
 1. git status
-1. git config --list
+2. git config --list
 
 How to Do a Push:
 
