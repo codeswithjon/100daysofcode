@@ -1,0 +1,3 @@
+myObj = {name: "John", age: 31, city: "New York"}
+
+print(myObj)
